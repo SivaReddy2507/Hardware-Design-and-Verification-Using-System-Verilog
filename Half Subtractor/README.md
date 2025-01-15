@@ -1,2 +1,2 @@
 # Half Subtractor
-Half subtractor is comninational circuit which performs binary subtraction between two bits
+Half subtractor is combinational circuit which performs binary subtraction between two bits
